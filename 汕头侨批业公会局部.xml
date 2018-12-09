@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<titleInfo>
+		<title>&#x6C55;&#x5934;&#x4FA8;&#x6279;&#x4E1A;&#x516C;&#x4F1A;&#x5C40;&#x90E8;</title>
+		<subTitle></subTitle>
+	</titleInfo>
+	<name type="personal">
+		<namePart>&#x91D1;&#x6587;&#x575A;</namePart>
+		<role>
+			<roleTerm authority="marcrelator" type="text"></roleTerm>
+		</role>
+	</name>
+	<typeOfResource>still image</typeOfResource>
+	<genre authority="lctgm"></genre>
+	<originInfo>
+		<dateIssued>2012-11-15</dateIssued>
+		<publisher></publisher>
+		<place>
+			<placeTerm authority="marccountry" type="code"></placeTerm>
+		</place>
+		<place>
+			<placeTerm type="text"></placeTerm>
+		</place>
+	</originInfo>
+	<language>
+		<languageTerm authority="iso639-2b" type="code"></languageTerm>
+	</language>
+	<abstract>&#x6C55;&#x5934;&#x4FA8;&#x6279;&#x4E1A;&#x516C;&#x4F1A;&#x7684;&#x4F1A;&#x5740;&#x4F4D;&#x4E8E;&#x6C38;&#x6CF0;&#x8857;4&#x53F7;&#x3002;&#x8BE5;&#x516C;&#x4F1A;&#x539F;&#x662F;&#x6210;&#x7ACB;&#x4E8E;&#x5149;&#x7EEA;&#x4E2D;&#x53F6;&#x7684;&#x5357;&#x4FA8;&#x6279;&#x4E1A;&#x516C;&#x6240;&#xFF0C;1926&#x5E74;&#x6539;&#x4E3A;&#x73B0;&#x540D;&#xFF0C;&#x662F;&#x5404;&#x4FA8;&#x6279;&#x5C40;&#x7684;&#x8054;&#x5408;&#x673A;&#x6784;&#xFF0C;&#x5F53;&#x5E74;&#x6C55;&#x5934;&#x6709;60&#x591A;&#x5BB6;&#x4FA8;&#x6279;&#x5C40;&#x52A0;&#x5165;&#x8BE5;&#x516C;&#x4F1A;&#x3002;&#x56FE;&#x793A;&#x4FA8;&#x6279;&#x4E1A;&#x516C;&#x4F1A;&#x7684;&#x88C5;&#x9970;&#x6784;&#x4EF6;&#xFF0C;&#x505A;&#x5DE5;&#x5F88;&#x7CBE;&#x81F4;&#x3002;</abstract>
+	<identifier type="local"></identifier>
+	<physicalDescription>
+		<form authority="marcform">nonprojected graphic</form>
+		<extent></extent>
+	</physicalDescription>
+	<note>&#x91D1;&#x6587;&#x575A;&#x62CD;&#x6444;&#x4E8E;2012&#x5E74;11&#x6708;15&#x65E5;</note>
+	<subject>
+		<topic></topic>
+		<topic>&#x6C11;&#x5C45;</topic>
+		<topic>&#x5EFA;&#x7B51;</topic>
+		<topic>&#x6C38;&#x6CF0;&#x8857;</topic>
+		<geographic></geographic>
+		<temporal></temporal>
+		<hierarchicalGeographic>
+			<continent></continent>
+			<country>&#x4E2D;&#x56FD;</country>
+			<province>&#x5E7F;&#x4E1C;</province>
+			<region></region>
+			<county></county>
+			<city>&#x6C55;&#x5934;</city>
+			<citySection>&#x6C38;&#x6CF0;&#x8DEF;</citySection>
+		</hierarchicalGeographic>
+		<cartographics>
+			<coordinates></coordinates>
+		</cartographics>
+	</subject>
+	<InCollection>&#x6C55;&#x5934;&#x57E0;&#x8001;&#x8857;&#x5E02;&#x56FE;&#x7247;&#x5E93;</InCollection>
+</mods>

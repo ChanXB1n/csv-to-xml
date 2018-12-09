@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<titleInfo>
+		<title>&#x6C55;&#x5934;&#x4FA8;&#x6279;&#x4E1A;&#x540C;&#x4E1A;&#x516C;&#x4F1A;</title>
+		<subTitle></subTitle>
+	</titleInfo>
+	<name type="personal">
+		<namePart>&#x6797;&#x739F;&#x745B;</namePart>
+		<role>
+			<roleTerm authority="marcrelator" type="text"></roleTerm>
+		</role>
+	</name>
+	<typeOfResource>still image</typeOfResource>
+	<genre authority="lctgm"></genre>
+	<originInfo>
+		<dateIssued>2012-12-16</dateIssued>
+		<publisher></publisher>
+		<place>
+			<placeTerm authority="marccountry" type="code"></placeTerm>
+		</place>
+		<place>
+			<placeTerm type="text"></placeTerm>
+		</place>
+	</originInfo>
+	<language>
+		<languageTerm authority="iso639-2b" type="code"></languageTerm>
+	</language>
+	<abstract>&#x6C55;&#x5934;&#x4FA8;&#x6279;&#x4E1A;&#x540C;&#x4E1A;&#x516C;&#x4F1A;&#x5EFA;&#x7B51;&#x65E7;&#x5740;</abstract>
+	<identifier type="local"></identifier>
+	<physicalDescription>
+		<form authority="marcform">nonprojected graphic</form>
+		<extent></extent>
+	</physicalDescription>
+	<note>&#x6797;&#x739F;&#x745B;&#x62CD;&#x6444;&#x4E8E;2012&#x5E74;12&#x6708;16&#x65E5;</note>
+	<subject>
+		<topic></topic>
+		<topic>&#x4FA8;&#x6279;&#x4E1A;&#x540C;&#x4E1A;&#x516C;&#x4F1A;</topic>
+		<topic>&#x5EFA;&#x7B51;</topic>
+		<topic>&#x65E7;&#x5740;</topic>
+		<geographic></geographic>
+		<temporal></temporal>
+		<hierarchicalGeographic>
+			<continent></continent>
+			<country>&#x4E2D;&#x56FD;</country>
+			<province>&#x5E7F;&#x4E1C;</province>
+			<region></region>
+			<county></county>
+			<city>&#x6C55;&#x5934;</city>
+			<citySection>&#x6C38;&#x6CF0;&#x8DEF;-&#x6C38;&#x6CF0;&#x8857;</citySection>
+		</hierarchicalGeographic>
+		<cartographics>
+			<coordinates></coordinates>
+		</cartographics>
+	</subject>
+	<InCollection>&#x6C55;&#x5934;&#x57E0;&#x8001;&#x8857;&#x5E02;&#x56FE;&#x7247;&#x5E93;</InCollection>
+</mods>
